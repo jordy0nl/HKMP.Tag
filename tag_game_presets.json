@@ -3048,3 +3048,123 @@
         }
     ]
 }
+
+    {
+      "name": "Crossroads_36",
+      "warp_transitions": {
+        "Crossroads_36": [
+          "right2"
+        ]
+      },
+      "min_players": 3,
+      "max_players": 7,
+      "transitions": {
+        "Crossroads_36": [
+          "right1",
+          "right2"
+        ]
+      },
+      "loadouts": {
+        "normal": {
+          "charms": [
+            "WaywardCompass",
+            "Kingsoul",
+            "Dashmaster",
+            "BaldurShell"
+          ],
+          "skills": [
+            "CycloneSlash",
+            "DashSlash",
+            "GreatSlash",
+            "MothwingCloak",
+            "MantisClaw",
+            "MonarchWings",
+            "ShadeCloak",
+            "VengefulSpirit",
+            "CrystalHeart"
+          ]
+        },
+        "infected": {
+          "charms": [
+            "NailmasterGlory",
+            "Dashmaster",
+            "SharpShadow"
+          ],
+          "skills": [
+            "CycloneSlash",
+            "DashSlash",
+            "GreatSlash",
+            "MothwingCloak",
+            "MantisClaw",
+            "CrystalHeart",
+            "MonarchWings",
+            "IsmasTear",
+            "ShadeCloak"
+          ]
+        }
+      }
+    }
+  ]
+}    
+{
+      "name": "Fungus1_11",
+      "warp_transitions": {
+        "Fungus1_11": [
+          "right1"
+        ]
+      },
+      "min_players": 5,
+      "max_players": 9,
+      "transitions": {
+        "Fungus1_11": [
+          "right1",
+          "right2",
+          "bot1"
+        ]
+      },
+      "loadouts": {
+        "normal": {
+          "charms": [
+            "WaywardCompass",
+            "Kingsoul",
+            "Dashmaster",
+            "BaldurShell",
+            "SteadyBody",
+            "SporeShroom"
+          ],
+          "skills": [
+            "GreatSlash",
+            "DashSlash",
+            "CycloneSlash",
+            "MothwingCloak",
+            "MantisClaw",
+            "MonarchWings",
+            "CrystalHeart",
+            "IsmasTear",
+            "HowlingWraiths",
+            "ShadeCloak"
+          ]
+        },
+        "infected": {
+          "charms": [
+            "NailmastersGlory",
+            "SharpShadow",
+            "Dashmaster",
+            "Sprintmaster",
+            "StalwartShell"
+          ],
+          "skills": [
+            "DashSlash",
+            "IsmasTear",
+            "MothwingCloak",
+            "MantisClaw",
+            "CrystalHeart",
+            "MonarchWings",
+            "IsmasTear",
+            "ShadeCloak"
+          ]
+        }
+      }
+    }
+  ]
+}
