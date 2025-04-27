@@ -669,8 +669,8 @@
                     "right2"
                 ]
             },
-            "min_players": 10,
-            "max_players": 20,
+            "min_players": 7,
+            "max_players": 30,
             "transitions": {
                 "White_Palace_15": [
                     "left1"
